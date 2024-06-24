@@ -9,6 +9,8 @@ const app = express();
 const corsOptions = {
   origin: ["http://localhost:5174", "http://localhost:5173","https://content-gen-app.onrender.com",
           "https://6679851d70b58fb0729eb532--glittery-lily-ebdd44.netlify.app/","https://content-gen-app.onrender.com/generate"],
+   methods: ["GET", "POST"], // Specify the allowed HTTP methods
+  allowedHeaders: ["Content-Type"], // Specify the allowed headers
 };
 app.use(cors(corsOptions));
 app.use(express.json());
