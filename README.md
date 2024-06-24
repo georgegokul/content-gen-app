@@ -38,4 +38,3 @@ Contributions are welcome! Please fork the repository and create a pull request 
 - https://nodejs.org/en/docs/
 - https://vitejs.dev/
 
-Feel free to customize and expand this README as needed to better fit your project and preferences.
