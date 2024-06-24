@@ -2,7 +2,7 @@
 # Gemini AI Content Generator
 
 A web application that leverages the power of Google's Gemini API to generate unique content. Built using the  Express.js, React.js, Node.js this project showcases the integration of modern web technologies.
-
+https://6679851d70b58fb0729eb532--glittery-lily-ebdd44.netlify.app/
 ## Project Overview
 
 The Gemini AI Content Generator is designed to provide users with an interface to input prompts and receive AI-generated content. The application features a user-friendly interface and a robust backend to handle API requests and generate content.
