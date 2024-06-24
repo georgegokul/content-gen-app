@@ -12,7 +12,7 @@ The Gemini AI Content Generator is designed to provide users with an interface t
 - **Content Generation**: Utilizes Google's Gemini API to generate content based on user prompts.
 - **User Interface**: A clean and intuitive interface built with React.js.
 - **Backend Server**: An Express.js server to handle API requests and integrate with the Gemini API.
-- **CORS Handling**: Configured to handle Cross-Origin Resource Sharing for secure communication between frontend and backend.
+
 
 ## Tech Stack
 
