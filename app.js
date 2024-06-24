@@ -7,7 +7,8 @@ const PORT = process.env.PORT || 8080
 const app = express();
 //Middlewares
 const corsOptions = {
-  origin: ["http://localhost:5174", "http://localhost:5173","https://content-gen-app.onrender.com"],
+  origin: ["http://localhost:5174", "http://localhost:5173","https://content-gen-app.onrender.com",
+          "https://6679851d70b58fb0729eb532--glittery-lily-ebdd44.netlify.app/","https://content-gen-app.onrender.com/generate"],
 };
 app.use(cors(corsOptions));
 app.use(express.json());
